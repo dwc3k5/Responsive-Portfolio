@@ -280,4 +280,15 @@ input[type=submit] {
   max-width: 100%;
   margin: 5vw auto;
 }
+/*-----portfolio images-----*/
+
+.work {
+  width: 100%;
+}
+
+
+
+
+/*added to the <div> containing all portfolio images*/
+
 }
